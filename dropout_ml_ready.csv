@@ -1,0 +1,328 @@
+State/UT,Dropout_Rate,Year,Level,High_Dropout,State_Encoded,Level_Encoded,Year_Encoded
+Andaman and Nicobar Islands,0.5,2019-20,Primary level (I,0,0,0,0
+Andhra Pradesh,0.0,2019-20,Primary level (I,0,1,0,0
+Arunachal Pradesh,6.2,2019-20,Primary level (I,1,2,0,0
+Assam,4.3,2019-20,Primary level (I,1,3,0,0
+Bihar,2.3,2019-20,Primary level (I,0,4,0,0
+Chandigarh,0.0,2019-20,Primary level (I,0,5,0,0
+Chhattisgarh,1.0,2019-20,Primary level (I,0,6,0,0
+Dadra and Nagar Haveli,0.0,2019-20,Primary level (I,0,7,0,0
+Daman and Diu,0.0,2019-20,Primary level (I,0,8,0,0
+Delhi,0.0,2019-20,Primary level (I,0,9,0,0
+Goa,0.3,2019-20,Primary level (I,0,10,0,0
+Gujarat,1.0,2019-20,Primary level (I,0,11,0,0
+Haryana,0.0,2019-20,Primary level (I,0,12,0,0
+Himachal Pradesh,0.9,2019-20,Primary level (I,0,13,0,0
+Jammu and Kashmir,3.9,2019-20,Primary level (I,1,14,0,0
+Jharkhand,6.3,2019-20,Primary level (I,1,15,0,0
+Karnataka,1.2,2019-20,Primary level (I,0,16,0,0
+Kerala,0.0,2019-20,Primary level (I,0,17,0,0
+Ladakh,3.5,2019-20,Primary level (I,0,18,0,0
+Lakshadweep,0.0,2019-20,Primary level (I,0,19,0,0
+Madhya Pradesh,0.8,2019-20,Primary level (I,0,20,0,0
+Maharashtra,0.0,2019-20,Primary level (I,0,21,0,0
+Manipur,8.8,2019-20,Primary level (I,1,22,0,0
+Meghalaya,7.0,2019-20,Primary level (I,1,23,0,0
+Mizoram,7.8,2019-20,Primary level (I,1,24,0,0
+Nagaland,4.2,2019-20,Primary level (I,1,25,0,0
+Odisha,0.8,2019-20,Primary level (I,0,26,0,0
+Puducherry,0.0,2019-20,Primary level (I,0,27,0,0
+Punjab,0.0,2019-20,Primary level (I,0,28,0,0
+Rajasthan,2.8,2019-20,Primary level (I,0,29,0,0
+Sikkim,0.0,2019-20,Primary level (I,0,30,0,0
+Tamil Nadu,1.1,2019-20,Primary level (I,0,31,0,0
+Telangana,0.0,2019-20,Primary level (I,0,32,0,0
+Tripura,2.0,2019-20,Primary level (I,0,33,0,0
+Uttar Pradesh,2.6,2019-20,Primary level (I,0,34,0,0
+Uttarakhand,2.5,2019-20,Primary level (I,0,35,0,0
+West Bengal,0.6,2019-20,Primary level (I,0,36,0,0
+Andaman and Nicobar Islands,0.0,2019-20,Upper Primary (VI -VIII),0,0,2,0
+Andhra Pradesh,0.3,2019-20,Upper Primary (VI -VIII),0,1,2,0
+Arunachal Pradesh,7.5,2019-20,Upper Primary (VI -VIII),1,2,2,0
+Assam,3.4,2019-20,Upper Primary (VI -VIII),0,3,2,0
+Bihar,8.9,2019-20,Upper Primary (VI -VIII),1,4,2,0
+Chandigarh,0.3,2019-20,Upper Primary (VI -VIII),0,5,2,0
+Chhattisgarh,3.8,2019-20,Upper Primary (VI -VIII),1,6,2,0
+Dadra and Nagar Haveli,1.1,2019-20,Upper Primary (VI -VIII),0,7,2,0
+Daman and Diu,0.0,2019-20,Upper Primary (VI -VIII),0,8,2,0
+Delhi,0.2,2019-20,Upper Primary (VI -VIII),0,9,2,0
+Goa,0.0,2019-20,Upper Primary (VI -VIII),0,10,2,0
+Gujarat,5.2,2019-20,Upper Primary (VI -VIII),1,11,2,0
+Haryana,1.8,2019-20,Upper Primary (VI -VIII),0,12,2,0
+Himachal Pradesh,0.6,2019-20,Upper Primary (VI -VIII),0,13,2,0
+Jammu and Kashmir,3.2,2019-20,Upper Primary (VI -VIII),0,14,2,0
+Jharkhand,8.4,2019-20,Upper Primary (VI -VIII),1,15,2,0
+Karnataka,2.5,2019-20,Upper Primary (VI -VIII),0,16,2,0
+Kerala,0.0,2019-20,Upper Primary (VI -VIII),0,17,2,0
+Ladakh,1.5,2019-20,Upper Primary (VI -VIII),0,18,2,0
+Lakshadweep,0.0,2019-20,Upper Primary (VI -VIII),0,19,2,0
+Madhya Pradesh,4.1,2019-20,Upper Primary (VI -VIII),1,20,2,0
+Maharashtra,1.1,2019-20,Upper Primary (VI -VIII),0,21,2,0
+Manipur,4.0,2019-20,Upper Primary (VI -VIII),1,22,2,0
+Meghalaya,8.0,2019-20,Upper Primary (VI -VIII),1,23,2,0
+Mizoram,2.5,2019-20,Upper Primary (VI -VIII),0,24,2,0
+Nagaland,5.4,2019-20,Upper Primary (VI -VIII),1,25,2,0
+Odisha,4.5,2019-20,Upper Primary (VI -VIII),1,26,2,0
+Puducherry,0.0,2019-20,Upper Primary (VI -VIII),0,27,2,0
+Punjab,0.0,2019-20,Upper Primary (VI -VIII),0,28,2,0
+Rajasthan,1.5,2019-20,Upper Primary (VI -VIII),0,29,2,0
+Sikkim,0.0,2019-20,Upper Primary (VI -VIII),0,30,2,0
+Tamil Nadu,0.4,2019-20,Upper Primary (VI -VIII),0,31,2,0
+Telangana,0.1,2019-20,Upper Primary (VI -VIII),0,32,2,0
+Tripura,3.5,2019-20,Upper Primary (VI -VIII),0,33,2,0
+Uttar Pradesh,2.1,2019-20,Upper Primary (VI -VIII),0,34,2,0
+Uttarakhand,2.3,2019-20,Upper Primary (VI -VIII),0,35,2,0
+West Bengal,0.0,2019-20,Upper Primary (VI -VIII),0,36,2,0
+Andaman and Nicobar Islands,15.7,2019-20,Secondary (IX-X),1,0,1,0
+Andhra Pradesh,14.8,2019-20,Secondary (IX-X),1,1,1,0
+Arunachal Pradesh,34.3,2019-20,Secondary (IX-X),1,2,1,0
+Assam,32.2,2019-20,Secondary (IX-X),1,3,1,0
+Bihar,21.4,2019-20,Secondary (IX-X),1,4,1,0
+Chandigarh,4.7,2019-20,Secondary (IX-X),1,5,1,0
+Chhattisgarh,18.2,2019-20,Secondary (IX-X),1,6,1,0
+Dadra and Nagar Haveli,20.2,2019-20,Secondary (IX-X),1,7,1,0
+Daman and Diu,20.0,2019-20,Secondary (IX-X),1,8,1,0
+Delhi,13.9,2019-20,Secondary (IX-X),1,9,1,0
+Goa,10.2,2019-20,Secondary (IX-X),1,10,1,0
+Gujarat,23.7,2019-20,Secondary (IX-X),1,11,1,0
+Haryana,13.3,2019-20,Secondary (IX-X),1,12,1,0
+Himachal Pradesh,7.2,2019-20,Secondary (IX-X),1,13,1,0
+Jammu and Kashmir,16.7,2019-20,Secondary (IX-X),1,14,1,0
+Jharkhand,16.6,2019-20,Secondary (IX-X),1,15,1,0
+Karnataka,16.8,2019-20,Secondary (IX-X),1,16,1,0
+Kerala,7.9,2019-20,Secondary (IX-X),1,17,1,0
+Ladakh,11.4,2019-20,Secondary (IX-X),1,18,1,0
+Lakshadweep,6.7,2019-20,Secondary (IX-X),1,19,1,0
+Madhya Pradesh,23.2,2019-20,Secondary (IX-X),1,20,1,0
+Maharashtra,15.2,2019-20,Secondary (IX-X),1,21,1,0
+Manipur,9.2,2019-20,Secondary (IX-X),1,22,1,0
+Meghalaya,22.2,2019-20,Secondary (IX-X),1,23,1,0
+Mizoram,20.4,2019-20,Secondary (IX-X),1,24,1,0
+Nagaland,21.2,2019-20,Secondary (IX-X),1,25,1,0
+Odisha,23.6,2019-20,Secondary (IX-X),1,26,1,0
+Puducherry,7.9,2019-20,Secondary (IX-X),1,27,1,0
+Punjab,1.6,2019-20,Secondary (IX-X),0,28,1,0
+Rajasthan,12.3,2019-20,Secondary (IX-X),1,29,1,0
+Sikkim,23.2,2019-20,Secondary (IX-X),1,30,1,0
+Tamil Nadu,9.6,2019-20,Secondary (IX-X),1,31,1,0
+Telangana,12.3,2019-20,Secondary (IX-X),1,32,1,0
+Tripura,26.7,2019-20,Secondary (IX-X),1,33,1,0
+Uttar Pradesh,14.4,2019-20,Secondary (IX-X),1,34,1,0
+Uttarakhand,8.4,2019-20,Secondary (IX-X),1,35,1,0
+West Bengal,13.8,2019-20,Secondary (IX-X),1,36,1,0
+Andaman and Nicobar Islands,2.3,2020-21,Primary level (I,0,0,0,1
+Andhra Pradesh,0.0,2020-21,Primary level (I,0,1,0,1
+Arunachal Pradesh,8.1,2020-21,Primary level (I,1,2,0,1
+Assam,3.3,2020-21,Primary level (I,0,3,0,1
+Bihar,0.0,2020-21,Primary level (I,0,4,0,1
+Chandigarh,0.0,2020-21,Primary level (I,0,5,0,1
+Chhattisgarh,0.7,2020-21,Primary level (I,0,6,0,1
+Dadra and Nagar Haveli,3.9,2020-21,Primary level (I,1,7,0,1
+Delhi,0.0,2020-21,Primary level (I,0,9,0,1
+Goa,1.5,2020-21,Primary level (I,0,10,0,1
+Gujarat,1.0,2020-21,Primary level (I,0,11,0,1
+Haryana,2.1,2020-21,Primary level (I,0,12,0,1
+Himachal Pradesh,1.9,2020-21,Primary level (I,0,13,0,1
+Jammu and Kashmir,4.4,2020-21,Primary level (I,1,14,0,1
+Jharkhand,3.5,2020-21,Primary level (I,0,15,0,1
+Karnataka,1.1,2020-21,Primary level (I,0,16,0,1
+Kerala,0.0,2020-21,Primary level (I,0,17,0,1
+Ladakh,4.1,2020-21,Primary level (I,1,18,0,1
+Lakshadweep,0.0,2020-21,Primary level (I,0,19,0,1
+Madhya Pradesh,1.3,2020-21,Primary level (I,0,20,0,1
+Maharashtra,1.0,2020-21,Primary level (I,0,21,0,1
+Manipur,8.5,2020-21,Primary level (I,1,22,0,1
+Meghalaya,7.4,2020-21,Primary level (I,1,23,0,1
+Mizoram,8.1,2020-21,Primary level (I,1,24,0,1
+Nagaland,5.9,2020-21,Primary level (I,1,25,0,1
+Odisha,0.0,2020-21,Primary level (I,0,26,0,1
+Puducherry,0.0,2020-21,Primary level (I,0,27,0,1
+Punjab,0.0,2020-21,Primary level (I,0,28,0,1
+Rajasthan,1.0,2020-21,Primary level (I,0,29,0,1
+Sikkim,1.2,2020-21,Primary level (I,0,30,0,1
+Tamil Nadu,0.6,2020-21,Primary level (I,0,31,0,1
+Telangana,0.0,2020-21,Primary level (I,0,32,0,1
+Tripura,4.2,2020-21,Primary level (I,1,33,0,1
+Uttar Pradesh,2.2,2020-21,Primary level (I,0,34,0,1
+Uttarakhand,1.7,2020-21,Primary level (I,0,35,0,1
+West Bengal,0.0,2020-21,Primary level (I,0,36,0,1
+Andaman and Nicobar Islands,0.4,2020-21,Upper Primary (VI -VIII),0,0,2,1
+Andhra Pradesh,0.5,2020-21,Upper Primary (VI -VIII),0,1,2,1
+Arunachal Pradesh,7.1,2020-21,Upper Primary (VI -VIII),1,2,2,1
+Assam,4.9,2020-21,Upper Primary (VI -VIII),1,3,2,1
+Bihar,2.8,2020-21,Upper Primary (VI -VIII),0,4,2,1
+Chandigarh,0.4,2020-21,Upper Primary (VI -VIII),0,5,2,1
+Chhattisgarh,4.1,2020-21,Upper Primary (VI -VIII),1,6,2,1
+Dadra and Nagar Haveli,1.7,2020-21,Upper Primary (VI -VIII),0,7,2,1
+Delhi,1.1,2020-21,Upper Primary (VI -VIII),0,9,2,1
+Goa,0.7,2020-21,Upper Primary (VI -VIII),0,10,2,1
+Gujarat,4.5,2020-21,Upper Primary (VI -VIII),1,11,2,1
+Haryana,1.8,2020-21,Upper Primary (VI -VIII),0,12,2,1
+Himachal Pradesh,1.4,2020-21,Upper Primary (VI -VIII),0,13,2,1
+Jammu and Kashmir,3.4,2020-21,Upper Primary (VI -VIII),0,14,2,1
+Jharkhand,5.4,2020-21,Upper Primary (VI -VIII),1,15,2,1
+Karnataka,2.0,2020-21,Upper Primary (VI -VIII),0,16,2,1
+Kerala,0.0,2020-21,Upper Primary (VI -VIII),0,17,2,1
+Ladakh,2.1,2020-21,Upper Primary (VI -VIII),0,18,2,1
+Lakshadweep,0.0,2020-21,Upper Primary (VI -VIII),0,19,2,1
+Madhya Pradesh,6.4,2020-21,Upper Primary (VI -VIII),1,20,2,1
+Maharashtra,1.5,2020-21,Upper Primary (VI -VIII),0,21,2,1
+Manipur,4.0,2020-21,Upper Primary (VI -VIII),1,22,2,1
+Meghalaya,8.9,2020-21,Upper Primary (VI -VIII),1,23,2,1
+Mizoram,5.3,2020-21,Upper Primary (VI -VIII),1,24,2,1
+Nagaland,4.2,2020-21,Upper Primary (VI -VIII),1,25,2,1
+Odisha,0.0,2020-21,Upper Primary (VI -VIII),0,26,2,1
+Puducherry,0.0,2020-21,Upper Primary (VI -VIII),0,27,2,1
+Punjab,0.0,2020-21,Upper Primary (VI -VIII),0,28,2,1
+Rajasthan,2.7,2020-21,Upper Primary (VI -VIII),0,29,2,1
+Sikkim,0.0,2020-21,Upper Primary (VI -VIII),0,30,2,1
+Tamil Nadu,0.6,2020-21,Upper Primary (VI -VIII),0,31,2,1
+Telangana,0.0,2020-21,Upper Primary (VI -VIII),0,32,2,1
+Tripura,5.5,2020-21,Upper Primary (VI -VIII),1,33,2,1
+Uttar Pradesh,4.6,2020-21,Upper Primary (VI -VIII),1,34,2,1
+Uttarakhand,2.1,2020-21,Upper Primary (VI -VIII),0,35,2,1
+West Bengal,0.0,2020-21,Upper Primary (VI -VIII),0,36,2,1
+Andaman and Nicobar Islands,7.0,2020-21,Secondary (IX-X),1,0,1,1
+Andhra Pradesh,16.7,2020-21,Secondary (IX-X),1,1,1,1
+Arunachal Pradesh,10.1,2020-21,Secondary (IX-X),1,2,1,1
+Assam,30.3,2020-21,Secondary (IX-X),1,3,1,1
+Bihar,17.6,2020-21,Secondary (IX-X),1,4,1,1
+Chandigarh,0.0,2020-21,Secondary (IX-X),0,5,1,1
+Chhattisgarh,13.4,2020-21,Secondary (IX-X),1,6,1,1
+Dadra and Nagar Haveli,17.7,2020-21,Secondary (IX-X),1,7,1,1
+Delhi,6.1,2020-21,Secondary (IX-X),1,9,1,1
+Goa,5.7,2020-21,Secondary (IX-X),1,10,1,1
+Gujarat,23.3,2020-21,Secondary (IX-X),1,11,1,1
+Haryana,10.8,2020-21,Secondary (IX-X),1,12,1,1
+Himachal Pradesh,7.6,2020-21,Secondary (IX-X),1,13,1,1
+Jammu and Kashmir,3.7,2020-21,Secondary (IX-X),0,14,1,1
+Jharkhand,13.0,2020-21,Secondary (IX-X),1,15,1,1
+Karnataka,16.6,2020-21,Secondary (IX-X),1,16,1,1
+Kerala,7.1,2020-21,Secondary (IX-X),1,17,1,1
+Ladakh,3.4,2020-21,Secondary (IX-X),0,18,1,1
+Lakshadweep,0.0,2020-21,Secondary (IX-X),0,19,1,1
+Madhya Pradesh,23.8,2020-21,Secondary (IX-X),1,20,1,1
+Maharashtra,11.2,2020-21,Secondary (IX-X),1,21,1,1
+Manipur,9.4,2020-21,Secondary (IX-X),1,22,1,1
+Meghalaya,27.6,2020-21,Secondary (IX-X),1,23,1,1
+Mizoram,20.0,2020-21,Secondary (IX-X),1,24,1,1
+Nagaland,23.6,2020-21,Secondary (IX-X),1,25,1,1
+Odisha,16.0,2020-21,Secondary (IX-X),1,26,1,1
+Puducherry,6.9,2020-21,Secondary (IX-X),1,27,1,1
+Punjab,9.0,2020-21,Secondary (IX-X),1,28,1,1
+Rajasthan,8.9,2020-21,Secondary (IX-X),1,29,1,1
+Sikkim,21.6,2020-21,Secondary (IX-X),1,30,1,1
+Tamil Nadu,6.4,2020-21,Secondary (IX-X),1,31,1,1
+Telangana,13.9,2020-21,Secondary (IX-X),1,32,1,1
+Tripura,26.7,2020-21,Secondary (IX-X),1,33,1,1
+Uttar Pradesh,12.5,2020-21,Secondary (IX-X),1,34,1,1
+Uttarakhand,8.3,2020-21,Secondary (IX-X),1,35,1,1
+West Bengal,13.3,2020-21,Secondary (IX-X),1,36,1,1
+Andaman and Nicobar Islands,0.4,2021-22,Primary level (I,0,0,0,2
+Andhra Pradesh,0.0,2021-22,Primary level (I,0,1,0,2
+Arunachal Pradesh,9.3,2021-22,Primary level (I,1,2,0,2
+Assam,6.0,2021-22,Primary level (I,1,3,0,2
+Bihar,0.0,2021-22,Primary level (I,0,4,0,2
+Chandigarh,0.0,2021-22,Primary level (I,0,5,0,2
+Chhattisgarh,0.8,2021-22,Primary level (I,0,6,0,2
+Dadra and Nagar Haveli,0.0,2021-22,Primary level (I,0,7,0,2
+Delhi,0.0,2021-22,Primary level (I,0,9,0,2
+Goa,0.0,2021-22,Primary level (I,0,10,0,2
+Gujarat,0.0,2021-22,Primary level (I,0,11,0,2
+Haryana,0.0,2021-22,Primary level (I,0,12,0,2
+Himachal Pradesh,0.0,2021-22,Primary level (I,0,13,0,2
+Jammu and Kashmir,4.0,2021-22,Primary level (I,1,14,0,2
+Jharkhand,1.8,2021-22,Primary level (I,0,15,0,2
+Karnataka,0.0,2021-22,Primary level (I,0,16,0,2
+Kerala,0.0,2021-22,Primary level (I,0,17,0,2
+Ladakh,6.5,2021-22,Primary level (I,1,18,0,2
+Lakshadweep,0.5,2021-22,Primary level (I,0,19,0,2
+Madhya Pradesh,3.1,2021-22,Primary level (I,0,20,0,2
+Maharashtra,0.0,2021-22,Primary level (I,0,21,0,2
+Manipur,13.3,2021-22,Primary level (I,1,22,0,2
+Meghalaya,9.8,2021-22,Primary level (I,1,23,0,2
+Mizoram,6.3,2021-22,Primary level (I,1,24,0,2
+Nagaland,5.0,2021-22,Primary level (I,1,25,0,2
+Odisha,0.0,2021-22,Primary level (I,0,26,0,2
+Puducherry,3.7,2021-22,Primary level (I,0,27,0,2
+Punjab,1.3,2021-22,Primary level (I,0,28,0,2
+Rajasthan,3.6,2021-22,Primary level (I,0,29,0,2
+Sikkim,1.8,2021-22,Primary level (I,0,30,0,2
+Tamil Nadu,0.0,2021-22,Primary level (I,0,31,0,2
+Telangana,0.0,2021-22,Primary level (I,0,32,0,2
+Tripura,1.1,2021-22,Primary level (I,0,33,0,2
+Uttar Pradesh,2.7,2021-22,Primary level (I,0,34,0,2
+Uttarakhand,0.8,2021-22,Primary level (I,0,35,0,2
+West Bengal,8.6,2021-22,Primary level (I,1,36,0,2
+Andaman and Nicobar Islands,1.0,2021-22,Upper Primary (VI -VIII),0,0,2,2
+Andhra Pradesh,1.6,2021-22,Upper Primary (VI -VIII),0,1,2,2
+Arunachal Pradesh,6.7,2021-22,Upper Primary (VI -VIII),1,2,2,2
+Assam,8.8,2021-22,Upper Primary (VI -VIII),1,3,2,2
+Bihar,4.6,2021-22,Upper Primary (VI -VIII),1,4,2,2
+Chandigarh,0.0,2021-22,Upper Primary (VI -VIII),0,5,2,2
+Chhattisgarh,4.1,2021-22,Upper Primary (VI -VIII),1,6,2,2
+Dadra and Nagar Haveli,0.0,2021-22,Upper Primary (VI -VIII),0,7,2,2
+Delhi,0.0,2021-22,Upper Primary (VI -VIII),0,9,2,2
+Goa,0.0,2021-22,Upper Primary (VI -VIII),0,10,2,2
+Gujarat,4.9,2021-22,Upper Primary (VI -VIII),1,11,2,2
+Haryana,0.2,2021-22,Upper Primary (VI -VIII),0,12,2,2
+Himachal Pradesh,0.6,2021-22,Upper Primary (VI -VIII),0,13,2,2
+Jammu and Kashmir,3.0,2021-22,Upper Primary (VI -VIII),0,14,2,2
+Jharkhand,3.9,2021-22,Upper Primary (VI -VIII),1,15,2,2
+Karnataka,1.1,2021-22,Upper Primary (VI -VIII),0,16,2,2
+Kerala,0.0,2021-22,Upper Primary (VI -VIII),0,17,2,2
+Ladakh,1.1,2021-22,Upper Primary (VI -VIII),0,18,2,2
+Lakshadweep,2.6,2021-22,Upper Primary (VI -VIII),0,19,2,2
+Madhya Pradesh,8.8,2021-22,Upper Primary (VI -VIII),1,20,2,2
+Maharashtra,1.5,2021-22,Upper Primary (VI -VIII),0,21,2,2
+Manipur,5.6,2021-22,Upper Primary (VI -VIII),1,22,2,2
+Meghalaya,10.6,2021-22,Upper Primary (VI -VIII),1,23,2,2
+Mizoram,2.7,2021-22,Upper Primary (VI -VIII),0,24,2,2
+Nagaland,4.0,2021-22,Upper Primary (VI -VIII),1,25,2,2
+Odisha,7.3,2021-22,Upper Primary (VI -VIII),1,26,2,2
+Puducherry,2.4,2021-22,Upper Primary (VI -VIII),0,27,2,2
+Punjab,8.0,2021-22,Upper Primary (VI -VIII),1,28,2,2
+Rajasthan,4.3,2021-22,Upper Primary (VI -VIII),1,29,2,2
+Sikkim,0.0,2021-22,Upper Primary (VI -VIII),0,30,2,2
+Tamil Nadu,0.0,2021-22,Upper Primary (VI -VIII),0,31,2,2
+Telangana,3.1,2021-22,Upper Primary (VI -VIII),0,32,2,2
+Tripura,4.5,2021-22,Upper Primary (VI -VIII),1,33,2,2
+Uttar Pradesh,2.9,2021-22,Upper Primary (VI -VIII),0,34,2,2
+Uttarakhand,2.7,2021-22,Upper Primary (VI -VIII),0,35,2,2
+West Bengal,0.0,2021-22,Upper Primary (VI -VIII),0,36,2,2
+Andaman and Nicobar Islands,5.0,2021-22,Secondary (IX-X),1,0,1,2
+Andhra Pradesh,16.3,2021-22,Secondary (IX-X),1,1,1,2
+Arunachal Pradesh,11.7,2021-22,Secondary (IX-X),1,2,1,2
+Assam,20.3,2021-22,Secondary (IX-X),1,3,1,2
+Bihar,20.5,2021-22,Secondary (IX-X),1,4,1,2
+Chandigarh,0.0,2021-22,Secondary (IX-X),0,5,1,2
+Chhattisgarh,9.7,2021-22,Secondary (IX-X),1,6,1,2
+Dadra and Nagar Haveli,9.5,2021-22,Secondary (IX-X),1,7,1,2
+Delhi,4.8,2021-22,Secondary (IX-X),1,9,1,2
+Goa,9.0,2021-22,Secondary (IX-X),1,10,1,2
+Gujarat,17.9,2021-22,Secondary (IX-X),1,11,1,2
+Haryana,5.9,2021-22,Secondary (IX-X),1,12,1,2
+Himachal Pradesh,1.5,2021-22,Secondary (IX-X),0,13,1,2
+Jammu and Kashmir,6.0,2021-22,Secondary (IX-X),1,14,1,2
+Jharkhand,9.3,2021-22,Secondary (IX-X),1,15,1,2
+Karnataka,14.6,2021-22,Secondary (IX-X),1,16,1,2
+Kerala,5.5,2021-22,Secondary (IX-X),1,17,1,2
+Ladakh,4.9,2021-22,Secondary (IX-X),1,18,1,2
+Lakshadweep,0.0,2021-22,Secondary (IX-X),0,19,1,2
+Madhya Pradesh,10.1,2021-22,Secondary (IX-X),1,20,1,2
+Maharashtra,10.7,2021-22,Secondary (IX-X),1,21,1,2
+Manipur,1.3,2021-22,Secondary (IX-X),0,22,1,2
+Meghalaya,21.7,2021-22,Secondary (IX-X),1,23,1,2
+Mizoram,11.9,2021-22,Secondary (IX-X),1,24,1,2
+Nagaland,17.5,2021-22,Secondary (IX-X),1,25,1,2
+Odisha,27.3,2021-22,Secondary (IX-X),1,26,1,2
+Puducherry,6.3,2021-22,Secondary (IX-X),1,27,1,2
+Punjab,17.2,2021-22,Secondary (IX-X),1,28,1,2
+Rajasthan,7.6,2021-22,Secondary (IX-X),1,29,1,2
+Sikkim,11.9,2021-22,Secondary (IX-X),1,30,1,2
+Tamil Nadu,4.5,2021-22,Secondary (IX-X),1,31,1,2
+Telangana,13.7,2021-22,Secondary (IX-X),1,32,1,2
+Tripura,8.3,2021-22,Secondary (IX-X),1,33,1,2
+Uttar Pradesh,9.7,2021-22,Secondary (IX-X),1,34,1,2
+Uttarakhand,5.0,2021-22,Secondary (IX-X),1,35,1,2
+West Bengal,18.0,2021-22,Secondary (IX-X),1,36,1,2
