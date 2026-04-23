@@ -12,7 +12,7 @@ Analyzing and predicting student dropout rates across Indian states using UDISE+
 |------|-------------|
 | `01_EDA.ipynb` | Exploratory Data Analysis |
 | `02_Feature_Engineering.ipynb` | Data reshaping, encoding & target variable creation |
-| `03_Model_Building.ipynb` | ML model building & evaluation |
+| `03_Model_Building.ipynb` | ML model building & evaluation (all models) |
 | `dropout_data.csv` | Raw dataset from UDISE+ |
 | `dropout_ml_ready.csv` | ML-ready dataset (327 rows, 8 features) |
 
@@ -20,12 +20,13 @@ Analyzing and predicting student dropout rates across Indian states using UDISE+
 - Secondary level has significantly higher dropout rates than Primary & Upper Primary
 - Dataset reshaped from 37 → 327 rows using melt()
 - Target: Predict high/low Secondary dropout using Primary & Upper Primary rates
-- Logistic Regression baseline — Accuracy: 87.5% | F1: 85.7% | CV F1: 74%
+- Decision Tree overfits (CV F1: 52.6%) vs Logistic Regression (CV F1: 74%) — Random Forest next
 
 ## 📈 Model Results (Work in Progress)
 | Model | Accuracy | F1 Score | CV F1 |
 |-------|----------|----------|-------|
 | Logistic Regression | 87.5% | 85.7% | 74.0% |
+| Decision Tree | 87.5% | 85.7% | 52.6% |
 
 ## 🛠️ Tech Stack
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn
