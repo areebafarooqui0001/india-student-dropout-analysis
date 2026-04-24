@@ -20,13 +20,15 @@ Analyzing and predicting student dropout rates across Indian states using UDISE+
 - Secondary level has significantly higher dropout rates than Primary & Upper Primary
 - Dataset reshaped from 37 → 327 rows using melt()
 - Target: Predict high/low Secondary dropout using Primary & Upper Primary rates
-- Decision Tree overfits (CV F1: 52.6%) vs Logistic Regression (CV F1: 74%) — Random Forest next
+- Top predictive feature: **Upper Primary 2021-22 dropout rate** — the level just before Secondary is the strongest early warning signal
+- Random Forest fixes Decision Tree overfitting: CV F1 52.6% → 73.8%
 
 ## 📈 Model Results (Work in Progress)
 | Model | Accuracy | F1 Score | CV F1 |
 |-------|----------|----------|-------|
 | Logistic Regression | 87.5% | 85.7% | 74.0% |
 | Decision Tree | 87.5% | 85.7% | 52.6% |
+| Random Forest | 100% | 100% | 73.8% |
 
 ## 🛠️ Tech Stack
-Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
