@@ -16,19 +16,22 @@ Analyzing and predicting student dropout rates across Indian states using UDISE+
 | `dropout_data.csv` | Raw dataset from UDISE+ |
 | `dropout_ml_ready.csv` | ML-ready dataset (327 rows, 8 features) |
 
-## 🔍 Key Findings So Far
+## 🔍 Key Findings
 - Secondary level has significantly higher dropout rates than Primary & Upper Primary
 - Dataset reshaped from 37 → 327 rows using melt()
 - Target: Predict high/low Secondary dropout using Primary & Upper Primary rates
 - Top predictive feature: **Upper Primary 2021-22 dropout rate** — the level just before Secondary is the strongest early warning signal
-- Random Forest fixes Decision Tree overfitting: CV F1 52.6% → 73.8%
+- Simpler models outperform complex ones on small datasets — Logistic Regression wins
 
-## 📈 Model Results (Work in Progress)
+## 📈 Model Results
 | Model | Accuracy | F1 Score | CV F1 |
 |-------|----------|----------|-------|
-| Logistic Regression | 87.5% | 85.7% | 74.0% |
+| Logistic Regression | 87.5% | 85.7% | **74.0% 🏆** |
 | Decision Tree | 87.5% | 85.7% | 52.6% |
 | Random Forest | 100% | 100% | 73.8% |
+| XGBoost | 87.5% | 85.7% | 59.0% |
+
+> 🏆 **Best Model: Logistic Regression** (CV F1: 74.0%) — cross-validation chosen over test accuracy due to small dataset size (37 states)
 
 ## 🛠️ Tech Stack
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
