@@ -35,3 +35,8 @@ Analyzing and predicting student dropout rates across Indian states using UDISE+
 
 ## 🛠️ Tech Stack
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
+
+## ▶️ How to Run
+1. Clone the repo: `git clone https://github.com/areebafarooqui0001/india-student-dropout-analysis`
+2. Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn xgboost`
+3. Run notebooks in order: `01_EDA` → `02_Feature_Engineering` → `03_Model_Building`
