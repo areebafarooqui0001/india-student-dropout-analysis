@@ -2,6 +2,9 @@
 
 Analyzing and predicting student dropout rates across Indian states using UDISE+ government data.
 
+## 🚀 Live Demo
+👉 [Try the app here](https://areebafarooqui0001-india-student-dropout-analysis.streamlit.app)
+
 ## 📊 Dataset
 - Source: [data.gov.in](https://data.gov.in) — UDISE+ State-wise Dropout Rates
 - Years: 2019-20 to 2021-22
